@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Hotel Management System
 
 ## Project Description
 
@@ -10,9 +10,9 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 
 ## Technologies Used
 
-* Tech 1 - JAVA VERSION 1.8
-* Tech 2 - SQL VERSION 8.0.28
-* Tech 3 - JDBC VERSION 8.0.28
+* JAVA VERSION 1.8
+* SQL VERSION 8.0.28
+* JDBC VERSION 8.0.28
 
 ## Features
 
